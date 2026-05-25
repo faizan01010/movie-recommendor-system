@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore pickle/model files
+similarity.pkl
 # C extensions
 *.so
 
