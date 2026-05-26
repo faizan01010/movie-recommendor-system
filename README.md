@@ -24,8 +24,4 @@ This app recommends similar movies based on user-selected input and displays det
 - Pandas 📊
 - Scikit-learn 🤖
 - Requests 🌐
-- TMDB API 🎬
-
----
-
-## 📂 Project Structure
+- TMDB API 🎬git status
